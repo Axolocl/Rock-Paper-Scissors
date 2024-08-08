@@ -1,1 +1,0 @@
-This is a simple game which makes you guess a random number between 1 and 20.
